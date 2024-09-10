@@ -1,5 +1,8 @@
 # Sistema de Recomendación de Películas y Series de Netflix
 
+[![Static Badge](https://img.shields.io/badge/python-brightgreen?style=for-the-badge&logo=python&labelColor=black&link=https%3A%2F%2Fgithub.com%2Fdarifor%2Falarma_YouTube)]()
+
+
 ## ¿Qué hace el sistema?
 
 Este proyecto es un sistema de recomendación de películas y series de Netflix desarrollado en Python. Contiene un archivo CSV en el que se almacenan cientos de producciones con información detallada respecto al título, descripción, género, director, reparto, país de producción y tipo de contenido. Los usuarios pueden seleccionar un título específico y luego buscar recomendaciones similares en función de la información proporcionada por el título seleccionado. Las recomendaciones se facilitarán atendiendo a **TODOS los criterios seleccionados por el usuario**, lo que puede limitar las recomendaciones a medida que se añaden más filtros.
