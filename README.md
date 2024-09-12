@@ -1,4 +1,4 @@
-# Sistema de Recomendación de Películas y Series de Netflix
+# Sistema de Recomendación de Películas y Series de Netflix 📺
 
 [![Static Badge](https://img.shields.io/badge/python-brightgreen?style=for-the-badge&logo=python&labelColor=black&link=https%3A%2F%2Fgithub.com%2Fdarifor%2Falarma_YouTube)]()
 
